@@ -1,1 +1,2 @@
-# cmpt333_111
+Repository for CMPT 333 Section 111
+Michael Guarino
